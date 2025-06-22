@@ -19,7 +19,7 @@ This is a simple and stylish **Digital Clock** built using **HTML, CSS, and Java
 
 ## 🚀 How to Use
 1.Clone the repo to your local machine:
-git clone https://github.com/your-username/digital-clock.git
+git clone https://github.com/Hetvi-Boricha/digital-clock.git
 
 2.Navigate to the project directory:
 cd digital-clock
